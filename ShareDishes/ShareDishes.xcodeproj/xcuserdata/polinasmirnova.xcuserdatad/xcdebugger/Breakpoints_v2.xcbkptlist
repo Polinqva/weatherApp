@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6ABD71E3-9C59-404D-B893-AC266BE84DCD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6452C617-863F-415E-8890-24947AB4A2DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShareDishes/SearchBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SearchBar"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "6452C617-863F-415E-8890-24947AB4A2DD - bdbd97b59d476edf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.text.getter : Swift.String"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "6452C617-863F-415E-8890-24947AB4A2DD - 1f647bb40a72712b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.text.setter : Swift.String"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "6452C617-863F-415E-8890-24947AB4A2DD - 6aa4ffb36f5552da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.text.modify : Swift.String"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6452C617-863F-415E-8890-24947AB4A2DD - 45cd762e55afdb2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.text.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "6452C617-863F-415E-8890-24947AB4A2DD - 4fd233d85ba4c533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.$text.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShareDishes/SearchBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SearchBar"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6 - dfa6337db1dc4771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.isSearching.getter : Swift.Bool"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6 - 1821bc7efeb0af0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.isSearching.setter : Swift.Bool"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6 - dbeadd3151dda17e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.isSearching.modify : Swift.Bool"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6 - ef043eb2a5b11b0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.isSearching.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "2F810A20-8E0F-47ED-9FFD-A3CDC36554F6 - 53623dfc2a0165b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareDishes.SearchBar.$isSearching.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "ShareDishes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinasmirnova/Desktop/projects/ShareDishes/ShareDishes/SearchBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "163D794E-72C7-438B-B39B-40CEF35441F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShareDishes/SearchBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
